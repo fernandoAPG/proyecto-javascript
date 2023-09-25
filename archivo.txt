@@ -1,2 +1,2 @@
-hola feecodeCamp.
+hola JavaScript.
 Estoy aprendiendo Git.
